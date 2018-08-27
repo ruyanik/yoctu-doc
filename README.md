@@ -6,7 +6,6 @@
 </div>
 
 
-<div align="center">
   <h3>
     <a href="https://yoctu.com">
       Website
@@ -28,7 +27,6 @@
       API documentation
     </a>
   </h3>
-</div>
 
 
 ![screenshot](http://g.recordit.co/643YqCjhBJ.gif)
