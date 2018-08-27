@@ -1,5 +1,5 @@
-<h1 align="center">Yoctu documentation <img height="100" width="100" align="right" src="https://www.yoctu.com/wp-content/themes/yoctu/images/logo.svg">
-</h1>
+<h2 align="center">Yoctu documentation <img height="100" width="100" align="right" src="https://www.yoctu.com/wp-content/themes/yoctu/images/logo.svg">
+</h2>
 
 <div align="center">
   <strong>Technical services made easy !</strong>
