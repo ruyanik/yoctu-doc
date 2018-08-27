@@ -26,11 +26,7 @@
     <!-- <span> | </span> -->
     <a href="#">
       Tutorials
-    </a>
-    <span> | </span>
-    <a href="https://www.reddit.com/r/choojs/">
-      Reddit
-    </a>
+    </a>   
     <span> | </span>
     <a href="https://apidoc.yoctu.com/">
       API documentation
