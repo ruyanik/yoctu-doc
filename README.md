@@ -13,19 +13,19 @@
     </a>
     <span> | </span>
     <a href="#">
-      Services
-    </a>
-    <span> | </span>
-    <a href="#">
       Ecosystem
     </a>
     <span> | </span>
-    <!-- <a href="https://github.com/trainyard/choo-cli"> -->
+    <!-- <a href="#"> -->
     <!--   CLI -->
     <!-- </a> -->
     <!-- <span> | </span> -->
     <a href="#">
       Tutorials
+    </a>   
+    <span> | </span>
+    <a href="#">
+      Demo
     </a>   
     <span> | </span>
     <a href="https://apidoc.yoctu.com/">
@@ -42,6 +42,9 @@
 Features
 ------------
 
-* **APis on the go** — With Yoctu, simply click and deploy one of our technical API's seamlessly ! 
+* **APis on the go** — With Yoctu, simply click and deploy one of our API's seamlessly !
+* **Cloud server** — Deploy within minutes and keep an eye at your server's status with our user-friendly web interface.
+* **Create your infrastructure** - Yoctu offers unlimited infrastructure possibilities, add replicated databases, create and monitor networks.
+* **Logs for everything** - Yoctu provides access and error logs in a beautifull way for every api's and services ! 
  
 </div>
