@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://yoctu.com">
+    <a style="color:red;text-decoration:none;" href="https://yoctu.com">
       Website
     </a>
     <span> | </span>
