@@ -1,4 +1,7 @@
-<img align="center" height="100" width="100" align="right" src="https://www.yoctu.com/wp-content/themes/yoctu/images/logo.svg">
+<div align="center">
+<img height="100" width="100" align="right" src="https://www.yoctu.com/wp-content/themes/yoctu/images/logo.svg">
+</div>
+
 <h2 align="center">Yoctu documentation </h2>
 
 <div align="center">
