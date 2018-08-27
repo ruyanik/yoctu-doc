@@ -31,10 +31,11 @@
 
 ![screenshot](http://g.recordit.co/643YqCjhBJ.gif)
 
-<div align="left">
   
 Features
 ------------
+
+<div align="left">
 
 * **APis on the go** — With Yoctu, simply click and deploy one of our API's seamlessly !
 
