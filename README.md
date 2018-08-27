@@ -31,7 +31,7 @@
 
 ![screenshot](http://g.recordit.co/643YqCjhBJ.gif)
 
-<div align="center">
+<div align="left">
   
 Features
 ------------
