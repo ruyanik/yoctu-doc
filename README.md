@@ -16,10 +16,6 @@
       Ecosystem
     </a>
     <span> | </span>
-    <!-- <a href="#"> -->
-    <!--   CLI -->
-    <!-- </a> -->
-    <!-- <span> | </span> -->
     <a href="#">
       Tutorials
     </a>   
