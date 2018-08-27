@@ -36,3 +36,12 @@
 
 
 ![screenshot](http://g.recordit.co/643YqCjhBJ.gif)
+
+<div align="center">
+  
+Features
+------------
+
+* **APis on the go** — With Yoctu, simply click and deploy one of our technical API's seamlessly ! 
+ 
+</div>
