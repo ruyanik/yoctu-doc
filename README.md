@@ -31,9 +31,10 @@
 
 ![screenshot](http://g.recordit.co/643YqCjhBJ.gif)
 
-  
+<div align="center">
 Features
 ------------
+</div>
 
 <div align="left">
 
