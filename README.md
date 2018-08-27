@@ -1,12 +1,14 @@
-<h1 align="center">Yoctu documentation</h1>
+<h1 align="center">Yoctu documentation <img height="100" width="100" align="right" src="https://www.yoctu.com/wp-content/themes/yoctu/images/logo.svg">
+</h1>
 
 <div align="center">
   <strong>Technical services made easy !</strong>
 </div>
 
+
 <div align="center">
   <h3>
-    <a style="color:red;text-decoration:none;" href="https://yoctu.com">
+    <a href="https://yoctu.com">
       Website
     </a>
     <span> | </span>
